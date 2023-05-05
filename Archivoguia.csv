@@ -1,0 +1,21 @@
+﻿Orden,Departamento,Municipio,Anio,Sexo,Cantidad
+1,Bogotá,Usaquén,2015,Femenino,2
+2,Bogotá,Usaquén,2015,Masculino,1
+3,Bogotá,Usaquén,2016,Femenino,3
+4,Bogotá,Usaquén,2016,Masculino,2
+5,Bogotá,Chapinero,2017,Femenino,1
+6,Bogotá,Chapinero,2017,Masculino,1
+7,Bogotá,Chapinero,2018,Femenino,4
+8,Bogotá,Chapinero,2018,Masculino,3
+9,Medellín,El Poblado,2019,Femenino,2
+10,Medellín,El Poblado,2019,Masculino,1
+11,Medellín,La Candelaria,2020,Femenino,3
+12,Medellín,La Candelaria,2020,Masculino,1
+13,Cali,Aguablanca,2021,Femenino,4
+14,Cali,Aguablanca,2021,Masculino,2
+15,Cali,Alameda,2022,Femenino,1
+16,Cali,Alameda,2022,Masculino,1
+17,Barranquilla,Riomar,2023,Femenino,3
+18,Barranquilla,Riomar,2023,Masculino,2
+19,Barranquilla,El Centro,2015,Femenino,1
+20,Barranquilla,El Centro,2015,Masculino,2
